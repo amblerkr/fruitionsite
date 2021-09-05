@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.9.13",
